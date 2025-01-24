@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">task sanj</string>
+    <string name="task_sanj">تسک سنج</string>
+    <string name="desc">با اپلیکیشن تسک سنج کاراتو مدیریت کن</string>
+    <string name="manage_todo">مدیریت وظایف</string>
+    <string name="true_works">انجام شده</string>
+    <string name="false_works">انجام نشده</string>
+    <string name="do_works">کار های انجام شده</string>
+    <string name="add_task">اضافه کردن تسک</string>
+    <string name="hint">وظیفه را وارد کنید</string>
+    <string name="save">ذخیره کردن</string>
+    <string name="cancel">منصرف شدن</string>
+</resources>
